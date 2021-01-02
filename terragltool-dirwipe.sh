@@ -18,7 +18,7 @@
 # Path to GLFTPD eg: glftpd/site
 ##
 
-dirpath=jail/glftpd/site
+dirpath=glftpd/site
 
 ##
 # Dirnames are in "CaSe SENSITIVE"
